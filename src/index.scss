@@ -1,0 +1,45 @@
+@import 'bulma/bulma';
+//@import 'bulma-extensions/extensions';
+@import url('https://fonts.googleapis.com/css?family=Varela+Round');
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-size: 14px;
+}
+
+p{
+  font-size:1rem;
+}
+
+.title {
+  font-family: 'Varela Round', sans-serif;
+  font-weight: bold;
+  font-size: 3rem;
+}
+
+.navbar-item{
+  font-family: 'Varela Round', sans-serif;
+  font-size:1rem;
+  color: #FFFFFF;
+}
+
+.navbar-item .is-active{
+  font-weight: bold;
+}
+
+.navbar{
+  background: #2b9b77;
+}
+
+h1{
+  font-family: 'Varela Round', sans-serif;
+  font-size: 1.2rem;
+}
+
+date{
+  color:#AAAAAA;
+  font-style:italic;
+  margin-right: 0.5rem;
+}
